@@ -5,6 +5,10 @@ Learn from Casey Smith@subTee
 ### Usage:
 
 	msxsl.exe argv1.xml shellcode.xml/JScript.xml/VBScript.xml
+	
+	or
+	
+	msxsl.exe shellcode.xml/JScript.xml/VBScript.xml shellcode.xml/JScript.xml/VBScript.xml
 
 ### shellcode.xml:
 

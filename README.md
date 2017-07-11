@@ -2,6 +2,10 @@
 
 Learn from Casey Smith@subTee
 
+### Usage:
+
+	msxsl.exe argv1.xml shellcode.xml/JScript.xml/VBScript.xml
+
 ### shellcode.xml:
 
 Use msxsl to run shellcode.

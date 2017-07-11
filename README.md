@@ -2,6 +2,8 @@
 
 Learn from Casey Smith@subTee
 
+https://twitter.com/subTee/status/877616321747271680
+
 ### Usage:
 
 	msxsl.exe argv1.xml shellcode.xml/JScript.xml/VBScript.xml

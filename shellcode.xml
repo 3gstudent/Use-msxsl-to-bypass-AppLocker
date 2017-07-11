@@ -6,7 +6,6 @@
 <msxsl:script language="JScript" implements-prefix="user">
 
 <!--   
-
 	Use msxsl to run shellcode.
 	Combine Casey Smith's msxsl POC and Cn33liz's StarFighters.
 	Link:

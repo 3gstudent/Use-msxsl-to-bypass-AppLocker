@@ -37,4 +37,6 @@ From: https://gist.github.com/subTee/d9380299ff35738723cb44f230ab39a1#file-scrip
 
 Use VBScript to run calc.exe
 
+Details：
 
+https://3gstudent.github.io/3gstudent.github.io/Use-msxsl-to-bypass-AppLocker/
